@@ -1,0 +1,3 @@
+# Implementation details
+
+1. We assume that file is going to have a reasonable size, thus we're refraining from use of buffered read.
